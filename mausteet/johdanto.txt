@@ -1,0 +1,7 @@
+Olet 'asteroidimainari', ja työskentelet Asteroid-Mining Corporationin (AMC) palveluksessa. Tehtäväsi on kauko-ohjata
+'suhteellisen turvallisesta' avaruustukikohdasta käsin huippukehittynyttä ja -kallista robottidrone-harvesteria vaarallisella
+Tannhauser-gate:n asteroidivyöhykkeellä. Aluksesi on varustettu tulinopeudeltaan hitaanlaisella, mutta kuitenkin melko
+tehokkaalla erikois-Z-beam-plasma-tuhosädetykillä. - Vaikka et itse olekkaan välittömässä hengenvaarassa, yritä kuitenkin
+väistellä asteroideja parhaasi mukaan, koska hyvä 'mainari' kerää enemmän resursseja kuin mitä hänen ohjauksessaan
+tuhoutuneiden dronejen rakentamiseen on käytetty. Liian alhainen hyötysuhde vähentää bonuksia!!! - Pitäähän AMC:n
+maksaa kuitenkin ne 'tellit' ja 'lellit' ja 'sotut' ja 'votutkin'...

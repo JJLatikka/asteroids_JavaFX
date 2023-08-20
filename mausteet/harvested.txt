@@ -1,0 +1,6 @@
+Pelaaja1,3153
+Pelaaja5,20751
+Pelaaja4,217
+Pelaaja3,12656
+Pelaaja2,16936
+Pelaaja6,24179
